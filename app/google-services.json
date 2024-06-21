@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458726696437",
+    "project_id": "assign-todo-72cf6",
+    "storage_bucket": "assign-todo-72cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458726696437:android:7a0d590861eadbe7396cbc",
+        "android_client_info": {
+          "package_name": "com.example.assignto_do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccZwF40yWZCChZegMCBie35VRuYPLBf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
